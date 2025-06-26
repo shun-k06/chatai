@@ -1,0 +1,22 @@
+# 仮想環境
+venv/
+
+# Jupyterのチェックポイント
+.ipynb_checkpoints/
+
+# 出力ファイルなど（必要に応じて）
+output/
+
+# Pythonキャッシュ
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 環境ファイルや個人設定（必要に応じて）
+.env
+*.env
+
+# macOSやWindows系のゴミファイル
+.DS_Store
+Thumbs.db
