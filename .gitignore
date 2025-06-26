@@ -20,3 +20,6 @@ __pycache__/
 # macOSやWindows系のゴミファイル
 .DS_Store
 Thumbs.db
+
+# 参考文献
+reference/
