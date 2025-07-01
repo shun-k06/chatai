@@ -23,3 +23,7 @@ Thumbs.db
 
 # 参考文献
 reference/
+scripts/WeatherApp.py
+
+# 練習教材
+notebooks/class1.ipynb
