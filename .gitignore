@@ -23,7 +23,8 @@ Thumbs.db
 
 # 参考文献
 reference/
-scripts/WeatherApp.py
+scripts/weather/
+scripts/cat/
 
 # 練習教材
 notebooks/class1.ipynb
